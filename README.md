@@ -51,15 +51,13 @@ FAST NUCES ISLAMABAD
 
 </div>
 
-<br>
+
 
 ## 📜 Certifications
 
 - ✅ **Google Cybersecurity Professional Certificate** — Coursera
 
 <br>
-
-
 
 ## 📫 Connect With Me
 
