@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00ffff&height=200&section=header&text=MUHAMMAD%20UMAR%20KHAN&fontSize=45&fontColor=ffffff"/>
-<br>
+
+# Muhammad Umar Khan
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;SOC+Analyst;Threat+Detection+%7C+Pentesting;Google+Cybersecurity+Certified"/>
 </div>
+
 
 ```bash
 ┌──(umar㉿security)-[~]
@@ -12,7 +14,7 @@ $ role
 Cyber Security Student | SOC Analyst
 $ certification
 Google Cybersecurity Professional Certificate
-$ University
+$ university
 FAST NUCES ISLAMABAD
 ```
 
@@ -57,6 +59,8 @@ FAST NUCES ISLAMABAD
 
 <br>
 
+
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -67,8 +71,3 @@ FAST NUCES ISLAMABAD
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:090979,100:020024&height=100&section=footer"/>
-</div>
