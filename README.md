@@ -4,30 +4,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;SOC+Analyst;Threat+Detection+%7C+Pentesting;Google+Cybersecurity+Certified"/>
 </div>
 
-# 👨‍💻 About Me
-
-Hello! I'm **Muhammad Umar Khan** 👋
-
-🎓 **BS Cyber Security Student**
-🏛️ **FAST National University of Computer and Emerging Sciences (FAST NUCES), Islamabad**
-
-I am a Cyber Security enthusiast building skills in both:
-
-🔵 **Defensive Security (Blue Team)**
-🔴 **Offensive Security (Red Team)**
-
 ```bash
 ┌──(umar㉿security)-[~]
 $ whoami
 Muhammad Umar Khan
 $ role
 Cyber Security Student | SOC Analyst
-$ goal
-Security Operations Center (SOC) Analyst
 $ certification
 Google Cybersecurity Professional Certificate
-$ mindset
-Learn • Analyze • Detect • Defend
+$ University
+FAST NUCES ISLAMABAD
 ```
 
 <br>
