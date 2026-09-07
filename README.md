@@ -57,14 +57,6 @@ FAST NUCES ISLAMABAD
 
 - ✅ **Google Cybersecurity Professional Certificate** — Coursera
 
-<br>
-<h2>📊 GitHub Analytics</h2>  
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PatchPayload-muk&bg_color=ffffff&color=18E3F7&line=18E3F7&point=18E3F7&area=true&area_color=18E3F7&hide_border=true&hide_title=true"/>
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
